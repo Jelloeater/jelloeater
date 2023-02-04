@@ -1,5 +1,5 @@
 ```bash
-rm -rf / # *Less > more, but there is no kill, like overkill...*
+dd if=/dev/random of=/dev/sda # *Less > more, but there is no kill, like overkill...*
 ```
 
 ```mermaid
