@@ -11,6 +11,6 @@ stateDiagram-v2
     Project_Done --> [*] :Feeling of accomplishment
 ```
 - 👯 I’m looking to collaborate on anything Python related.
-- 📝 I keep a blog, it's neat https://jesses.dev
+- 📝 I keep a blog https://jesses.dev
 - 📫 Current contact info on my bio page https://jesses.me
 - ⚡ Fun fact: A duck's quack doesn't echo, and no one knows why.
