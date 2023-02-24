@@ -14,3 +14,6 @@ stateDiagram-v2
 - 📝 I keep a blog https://jesses.dev
 - 📫 Current contact info on my bio page https://jesses.me
 - ⚡ Fun fact: A duck's quack doesn't echo, and no one knows why.
+
+![](https://github-readme-stats.vercel.app/api?username=jelloeater&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&hide_title=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jelloeater&show_icons=true&theme=transparent&hide_border=true&layout=compact)
